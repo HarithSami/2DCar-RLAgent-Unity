@@ -3,11 +3,6 @@ This is a Unity project that implements an RL (Reinforcement Learning) agent to 
 
 ![Demo](https://user-images.githubusercontent.com/66371106/233305659-6a6f9b70-a4e1-4a58-a005-fc95ff6ead96.gif)
 
-# Requirements
--Unity version 2021.1.12f1 or higher
--C# programming language knowledge
--Basic knowledge of Artificial Neural Networks and Reinforcement Learning
-
 # Installation
 -Clone or download the project from the GitHub repository
 -Open the project in Unity
