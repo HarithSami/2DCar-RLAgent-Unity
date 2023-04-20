@@ -5,8 +5,11 @@ This is a Unity project that implements an RL (Reinforcement Learning) agent to 
 
 # Installation
 -Clone or download the project from the GitHub repository
+
 -Open the project in Unity
+
 -Go to the "Scenes" folder and open the "Main" scene
+
 -Press the play button to start the simulation
 
 # Usage
